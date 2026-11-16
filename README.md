@@ -7,6 +7,6 @@ Git & GitHub
 1. Rock Paper Scissors
    A simple Rock Paper Scissors game developed using Python.
 2. Password Generator
-   A password generator that generates random passwords based on inputs.
+   A password generator that generates random shuffled(Level 1) or unshuffled(Level 2) passwords based on inputs. 
 [Author]
 Mahalaxmi Sutradhar
